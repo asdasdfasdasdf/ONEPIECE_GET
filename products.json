@@ -1,0 +1,296 @@
+{
+  "total": 32,
+  "per_page": "100",
+  "current_page": 1,
+  "last_page": 1,
+  "data": [
+    {
+      "id": 1,
+      "name": "芹菜 半斤",
+      "price": "0.01",
+      "stock": 998,
+      "main_img_url": "https:\/\/qhejpxn.cn\/images\/product-vg@1.png",
+      "img_id": 13,
+      "summary": null
+    },
+    {
+      "id": 2,
+      "name": "梨花带雨 3个",
+      "price": "0.01",
+      "stock": 0,
+      "main_img_url": "https:\/\/qhejpxn.cn\/images\/product-dryfruit@1.png",
+      "img_id": 10,
+      "summary": null
+    },
+    {
+      "id": 3,
+      "name": "素米 327克",
+      "price": "0.01",
+      "stock": 996,
+      "main_img_url": "https:\/\/qhejpxn.cn\/images\/product-rice@1.png",
+      "img_id": 31,
+      "summary": null
+    },
+    {
+      "id": 4,
+      "name": "红袖枸杞 6克*3袋",
+      "price": "0.01",
+      "stock": 998,
+      "main_img_url": "https:\/\/qhejpxn.cn\/images\/product-tea@1.png",
+      "img_id": 32,
+      "summary": null
+    },
+    {
+      "id": 5,
+      "name": "春生龙眼 500克",
+      "price": "0.01",
+      "stock": 995,
+      "main_img_url": "https:\/\/qhejpxn.cn\/images\/product-dryfruit@2.png",
+      "img_id": 33,
+      "summary": null
+    },
+    {
+      "id": 6,
+      "name": "小红的猪耳朵 120克",
+      "price": "0.01",
+      "stock": 997,
+      "main_img_url": "https:\/\/qhejpxn.cn\/images\/product-cake@2.png",
+      "img_id": 53,
+      "summary": null
+    },
+    {
+      "id": 7,
+      "name": "泥蒿 半斤",
+      "price": "0.01",
+      "stock": 998,
+      "main_img_url": "https:\/\/qhejpxn.cn\/images\/product-vg@2.png",
+      "img_id": 68,
+      "summary": null
+    },
+    {
+      "id": 8,
+      "name": "夏日芒果 3个",
+      "price": "0.01",
+      "stock": 995,
+      "main_img_url": "https:\/\/qhejpxn.cn\/images\/product-dryfruit@3.png",
+      "img_id": 36,
+      "summary": null
+    },
+    {
+      "id": 9,
+      "name": "冬木红枣 500克",
+      "price": "0.01",
+      "stock": 996,
+      "main_img_url": "https:\/\/qhejpxn.cn\/images\/product-dryfruit@4.png",
+      "img_id": 37,
+      "summary": null
+    },
+    {
+      "id": 10,
+      "name": "万紫千凤梨 300克",
+      "price": "0.01",
+      "stock": 996,
+      "main_img_url": "https:\/\/qhejpxn.cn\/images\/product-dryfruit@5.png",
+      "img_id": 38,
+      "summary": null
+    },
+    {
+      "id": 11,
+      "name": "贵妃笑 100克",
+      "price": "0.01",
+      "stock": 994,
+      "main_img_url": "https:\/\/qhejpxn.cn\/images\/product-dryfruit-a@6.png",
+      "img_id": 39,
+      "summary": null
+    },
+    {
+      "id": 12,
+      "name": "珍奇异果 3个",
+      "price": "0.01",
+      "stock": 999,
+      "main_img_url": "https:\/\/qhejpxn.cn\/images\/product-dryfruit@7.png",
+      "img_id": 40,
+      "summary": null
+    },
+    {
+      "id": 13,
+      "name": "绿豆 125克",
+      "price": "0.01",
+      "stock": 999,
+      "main_img_url": "https:\/\/qhejpxn.cn\/images\/product-rice@2.png",
+      "img_id": 41,
+      "summary": null
+    },
+    {
+      "id": 14,
+      "name": "芝麻 50克",
+      "price": "0.01",
+      "stock": 999,
+      "main_img_url": "https:\/\/qhejpxn.cn\/images\/product-rice@3.png",
+      "img_id": 42,
+      "summary": null
+    },
+    {
+      "id": 15,
+      "name": "猴头菇 370克",
+      "price": "0.01",
+      "stock": 999,
+      "main_img_url": "https:\/\/qhejpxn.cn\/images\/product-rice@4.png",
+      "img_id": 43,
+      "summary": null
+    },
+    {
+      "id": 16,
+      "name": "西红柿 1斤",
+      "price": "0.01",
+      "stock": 999,
+      "main_img_url": "https:\/\/qhejpxn.cn\/images\/product-vg@3.png",
+      "img_id": 69,
+      "summary": null
+    },
+    {
+      "id": 17,
+      "name": "油炸花生 300克",
+      "price": "0.01",
+      "stock": 999,
+      "main_img_url": "https:\/\/qhejpxn.cn\/images\/product-fry@1.png",
+      "img_id": 44,
+      "summary": null
+    },
+    {
+      "id": 18,
+      "name": "春泥西瓜子 128克",
+      "price": "0.01",
+      "stock": 997,
+      "main_img_url": "https:\/\/qhejpxn.cn\/images\/product-fry@2.png",
+      "img_id": 45,
+      "summary": null
+    },
+    {
+      "id": 19,
+      "name": "碧水葵花籽 128克",
+      "price": "0.01",
+      "stock": 999,
+      "main_img_url": "https:\/\/qhejpxn.cn\/images\/product-fry@3.png",
+      "img_id": 46,
+      "summary": null
+    },
+    {
+      "id": 20,
+      "name": "碧螺春 12克*3袋",
+      "price": "0.01",
+      "stock": 999,
+      "main_img_url": "https:\/\/qhejpxn.cn\/images\/product-tea@2.png",
+      "img_id": 47,
+      "summary": null
+    },
+    {
+      "id": 21,
+      "name": "西湖龙井 8克*3袋",
+      "price": "0.01",
+      "stock": 998,
+      "main_img_url": "https:\/\/qhejpxn.cn\/images\/product-tea@3.png",
+      "img_id": 48,
+      "summary": null
+    },
+    {
+      "id": 22,
+      "name": "梅兰清花糕 1个",
+      "price": "0.01",
+      "stock": 997,
+      "main_img_url": "https:\/\/qhejpxn.cn\/images\/product-cake-a@3.png",
+      "img_id": 54,
+      "summary": null
+    },
+    {
+      "id": 23,
+      "name": "清凉薄荷糕 1个",
+      "price": "0.01",
+      "stock": 998,
+      "main_img_url": "https:\/\/qhejpxn.cn\/images\/product-cake-a@4.png",
+      "img_id": 55,
+      "summary": null
+    },
+    {
+      "id": 25,
+      "name": "小明的妙脆角 120克",
+      "price": "0.01",
+      "stock": 999,
+      "main_img_url": "https:\/\/qhejpxn.cn\/images\/product-cake@1.png",
+      "img_id": 52,
+      "summary": null
+    },
+    {
+      "id": 26,
+      "name": "红衣青瓜 混搭160克",
+      "price": "0.01",
+      "stock": 999,
+      "main_img_url": "https:\/\/qhejpxn.cn\/images\/product-dryfruit@8.png",
+      "img_id": 56,
+      "summary": null
+    },
+    {
+      "id": 27,
+      "name": "锈色瓜子 100克",
+      "price": "0.01",
+      "stock": 998,
+      "main_img_url": "https:\/\/qhejpxn.cn\/images\/product-fry@4.png",
+      "img_id": 57,
+      "summary": null
+    },
+    {
+      "id": 28,
+      "name": "春泥花生 200克",
+      "price": "0.01",
+      "stock": 999,
+      "main_img_url": "https:\/\/qhejpxn.cn\/images\/product-fry@5.png",
+      "img_id": 58,
+      "summary": null
+    },
+    {
+      "id": 29,
+      "name": "冰心鸡蛋 2个",
+      "price": "0.01",
+      "stock": 999,
+      "main_img_url": "https:\/\/qhejpxn.cn\/images\/product-rice@5.png",
+      "img_id": 59,
+      "summary": null
+    },
+    {
+      "id": 30,
+      "name": "八宝莲子 200克",
+      "price": "0.01",
+      "stock": 999,
+      "main_img_url": "https:\/\/qhejpxn.cn\/images\/product-rice@6.png",
+      "img_id": 14,
+      "summary": null
+    },
+    {
+      "id": 31,
+      "name": "深涧木耳 78克",
+      "price": "0.01",
+      "stock": 999,
+      "main_img_url": "https:\/\/qhejpxn.cn\/images\/product-rice@7.png",
+      "img_id": 60,
+      "summary": null
+    },
+    {
+      "id": 32,
+      "name": "土豆 半斤",
+      "price": "0.01",
+      "stock": 999,
+      "main_img_url": "https:\/\/qhejpxn.cn\/images\/product-vg@4.png",
+      "img_id": 66,
+      "summary": null
+    },
+    {
+      "id": 33,
+      "name": "青椒 半斤",
+      "price": "0.01",
+      "stock": 999,
+      "main_img_url": "https:\/\/qhejpxn.cn\/images\/product-vg@5.png",
+      "img_id": 67,
+      "summary": null
+    }
+  ]
+}
