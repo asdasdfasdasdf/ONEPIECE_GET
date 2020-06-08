@@ -1,0 +1,47 @@
+{
+  "id": 1,
+  "name": "首页置顶",
+  "description": "首页轮播图",
+  "items": [
+    {
+      "id": 1,
+      "key_word": "6",
+      "type": 1,
+      "img": {
+        "url": "http://img0.imgtn.bdimg.com/it/u=647947634,1760004538&fm=26&gp=0.jpg"
+      }
+    },
+    {
+      "id": 2,
+      "key_word": "25",
+      "type": 1,
+      "img": {
+        "url": "http://img5.imgtn.bdimg.com/it/u=2426735177,1638627768&fm=26&gp=0.jpg"
+      }
+    },
+    {
+      "id": 3,
+      "key_word": "11",
+      "type": 1,
+      "img": {
+        "url": "http://img4.imgtn.bdimg.com/it/u=3039695076,2023539884&fm=26&gp=0.jpg"
+      }
+    },
+    {
+      "id": 5,
+      "key_word": "10",
+      "type": 1,
+      "img": {
+        "url": "http://img3.imgtn.bdimg.com/it/u=731845897,3307504244&fm=26&gp=0.jpg"
+      }
+    },
+    {
+      "id": 7,
+      "key_word": "22",
+      "type": 1,
+      "img": {
+        "url": "http://img4.imgtn.bdimg.com/it/u=782372799,3428784619&fm=26&gp=0.jpg"
+      }
+    }
+  ]
+}
