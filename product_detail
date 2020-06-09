@@ -8,6 +8,13 @@
   "summary": null,
   "imgs": [
     {
+      "id": 19,
+      "order": 13,
+      "img_url": {
+        "url": "https://bkimg.cdn.bcebos.com/pic/a8014c086e061d95f662155f76f40ad162d9cab5?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg"
+      }
+    }，
+    {
       "id": 4,
       "order": 1,
       "img_url": {
@@ -90,14 +97,8 @@
       "img_url": {
         "url": "https://bkimg.cdn.bcebos.com/pic/6609c93d70cf3bc7b4c8731fdb00baa1cc112a7c?x-bce-process=image/watermark,g_7,image_d2F0ZXIvYmFpa2UxNTA=,xp_5,yp_5"
       }
-    },
-    {
-      "id": 19,
-      "order": 13,
-      "img_url": {
-        "url": "https://bkimg.cdn.bcebos.com/pic/a8773912b31bb0516019e989357adab44aede056?x-bce-process=image/watermark,g_7,image_d2F0ZXIvYmFpa2UxNTA=,xp_5,yp_5"
-      }
     }
+    
   ],
   "properties": [
     {
