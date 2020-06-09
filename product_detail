@@ -1,0 +1,120 @@
+{
+  "id": 1,
+  "name": "路飞",
+  "price": "15亿",
+  "stock": 994,
+  "main_img_url": "https://bkimg.cdn.bcebos.com/pic/8b13632762d0f703c8836a5402fa513d2697c501?x-bce-process=image/watermark,g_7,image_d2F0ZXIvYmFpa2U5Mg==,xp_5,yp_5",
+  "img_id": 39,
+  "summary": null,
+  "imgs": [
+    {
+      "id": 4,
+      "order": 1,
+      "img_url": {
+        "url": "https://bkimg.cdn.bcebos.com/pic/b7fd5266d01609243cd6d2c9d60735fae7cd3474?x-bce-process=image/watermark,g_7,image_d2F0ZXIvYmFpa2U4MA==,xp_5,yp_5"
+      }
+    },
+    {
+      "id": 5,
+      "order": 2,
+      "img_url": {
+        "url": "https://bkimg.cdn.bcebos.com/pic/962bd40735fae6cde733dbb30db30f2443a70f58?x-bce-process=image/watermark,g_7,image_d2F0ZXIvYmFpa2U4MA==,xp_5,yp_5"
+      }
+    },
+    {
+      "id": 6,
+      "order": 3,
+      "img_url": {
+        "url": "https://bkimg.cdn.bcebos.com/pic/a9d3fd1f4134970a6dca73fd97cad1c8a6865da2?x-bce-process=image/watermark,g_7,image_d2F0ZXIvYmFpa2U4MA==,xp_5,yp_5"
+      }
+    },
+    {
+      "id": 7,
+      "order": 4,
+      "img_url": {
+        "url": "https://bkimg.cdn.bcebos.com/pic/21a4462309f79052550b1f9f0ff3d7ca7bcbd57f?x-bce-process=image/watermark,g_7,image_d2F0ZXIvYmFpa2UxMTY=,xp_5,yp_5"
+      }
+    },
+    {
+      "id": 8,
+      "order": 5,
+      "img_url": {
+        "url": "https://bkimg.cdn.bcebos.com/pic/8435e5dde71190ef84073128cc1b9d16fcfa604d?x-bce-process=image/watermark,g_7,image_d2F0ZXIvYmFpa2U5Mg==,xp_5,yp_5"
+      }
+    },
+    {
+      "id": 9,
+      "order": 6,
+      "img_url": {
+        "url": "https://bkimg.cdn.bcebos.com/pic/72f082025aafa40f28317f2ea164034f79f01949?x-bce-process=image/watermark,g_7,image_d2F0ZXIvYmFpa2U4MA==,xp_5,yp_5"
+      }
+    },
+    {
+      "id": 10,
+      "order": 7,
+      "img_url": {
+        "url": "https://bkimg.cdn.bcebos.com/pic/c8177f3e6709c93d4015bf04953df8dcd0005459?x-bce-process=image/watermark,g_7,image_d2F0ZXIvYmFpa2U4MA==,xp_5,yp_5"
+      }
+    },
+    {
+      "id": 11,
+      "order": 8,
+      "img_url": {
+        "url": "https://bkimg.cdn.bcebos.com/pic/3b292df5e0fe9925b698d9a33ea85edf8cb171a8?x-bce-process=image/watermark,g_7,image_d2F0ZXIvYmFpa2UxNTA=,xp_5,yp_5"
+      }
+    },
+    {
+      "id": 12,
+      "order": 9,
+      "img_url": {
+        "url": "https://bkimg.cdn.bcebos.com/pic/bd3eb13533fa828b86952e10f71f4134960a5a8a?x-bce-process=image/watermark,g_7,image_d2F0ZXIvYmFpa2U4MA==,xp_5,yp_5"
+      }
+    },
+    {
+      "id": 13,
+      "order": 11,
+      "img_url": {
+        "url": "https://bkimg.cdn.bcebos.com/pic/1e30e924b899a901c75ce6c517950a7b0308f5dc?x-bce-process=image/watermark,g_7,image_d2F0ZXIvYmFpa2U5Mg==,xp_5,yp_5"
+      }
+    },
+    {
+      "id": 14,
+      "order": 10,
+      "img_url": {
+        "url": "https://bkimg.cdn.bcebos.com/pic/7e3e6709c93d70cf10f015fef2dcd100baa12b3e?x-bce-process=image/watermark,g_7,image_d2F0ZXIvYmFpa2UxNTA=,xp_5,yp_5"
+      }
+    },
+    {
+      "id": 18,
+      "order": 12,
+      "img_url": {
+        "url": "https://bkimg.cdn.bcebos.com/pic/6609c93d70cf3bc7b4c8731fdb00baa1cc112a7c?x-bce-process=image/watermark,g_7,image_d2F0ZXIvYmFpa2UxNTA=,xp_5,yp_5"
+      }
+    },
+    {
+      "id": 19,
+      "order": 13,
+      "img_url": {
+        "url": "https://bkimg.cdn.bcebos.com/pic/a8773912b31bb0516019e989357adab44aede056?x-bce-process=image/watermark,g_7,image_d2F0ZXIvYmFpa2UxNTA=,xp_5,yp_5"
+      }
+    }
+  ],
+  "properties": [
+    {
+      "name": "姓名",
+      "detail": "路飞"
+    },
+    {
+      "name": "等级",
+      "detail": "要成为海贼王的男人"
+    },
+    {
+      "name": "故乡",
+      "detail": "风车小镇"
+    },
+    {
+      "name": "最爱的东西",
+      "detail": "肉"
+    }
+  ]
+}
